@@ -1,3 +1,5 @@
 /scratchvenv
 /.vscode
 /Datasets
+**/__pycache__
+LoRA/sequential_model.pth
