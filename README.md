@@ -12,7 +12,7 @@ A Generative Adversarial Network implementation from scratch using only Fully Co
 
 ### [🍅 LoRA Fine-tuning Projects](./LoRA)
 Fine-tuning experiments using Low-Rank Adaptation (LoRA) technique. Currently features:
-- **[Tomato Disease Classification](./LoRA/Tomato-Leaf-Disease-Classification)**: Improving disease detection accuracy using LoRA fine-tuning
+- **[Tomato Disease Classification](https://github.com/Epein5/Tomato-Leaf-Disease-Classification)**: Improving this repo's disease detection accuracy using LoRA fine-tuning
 
 
 ## 🛠️ Technologies Used
